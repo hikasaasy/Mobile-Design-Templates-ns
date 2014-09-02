@@ -242,6 +242,11 @@ header .main-menu-button a.left-arrow {
   background-image: url("../images/icons/left-arrow-white.png");
   background-size: 19.5px 28.5px;
 }
+/* line 100, sass/_global.sass */
+header .main-menu-button a.right-arrow {
+  background-image: url("../images/icons/right-arrow-white.png");
+  background-size: 19.5px 28.5px;
+}
 /* line 103, sass/_global.sass */
 header .main-menu-button a.gear {
   background-image: url("../images/icons/gear-white.png");
